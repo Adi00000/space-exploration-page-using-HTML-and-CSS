@@ -1,0 +1,35 @@
+body{
+    background-color: #BC7B60;
+}
+.main{
+    background-image: url("images/galaxy.gif");
+    background-size: cover;
+    text-align: center;
+    padding-bottom:300px;
+    margin-top: 20px;
+    margin : 50px 150px;
+    font-family: 'Orbitron', sans-serif;
+    color: #797EA3;
+}
+h1{
+    text-shadow: 2px 2px 2px white;
+}
+img {
+    width: 150px;
+}
+.main > button{
+    padding: 10px 15px;
+    border: 2px solid white;
+    text-align: center;
+    font-family: inherit;
+    font-weight: bold;
+   color: #797EA3;
+   cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+h3{
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+}
